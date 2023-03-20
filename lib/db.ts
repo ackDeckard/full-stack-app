@@ -1,5 +1,7 @@
 import { PrismaClient } from "@prisma/client";
 
+// serves as cache our Prisma client and reuse it when possible to avoid having too many connections.
+
 declare global {
   // eslint-disable-next-line no-var
   var cachedPrisma: PrismaClient;

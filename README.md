@@ -1,1 +1,1 @@
-FrontEnd Masters course from Scott Moss - building a full stack app using Next JS 13, Tailwind, Typescript, Postgres, Prisma.
+A full stack app using NextJS 13, Prisma + Postgres, Typescript, React, Tailwind - Frontend Masters
